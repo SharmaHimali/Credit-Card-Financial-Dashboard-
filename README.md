@@ -1,24 +1,47 @@
-# Credit_Card_Financial_Dashboard
+# Credit_Card_Financial_Dashboard ( Power BI, SQL)
 
-Credit Card Transaction and Customer Dashboard using Power BI & SQL
+**Objective:** To track credit card transaction trends, customer behavior, and product-level performance using dynamic dashboards and real-time metrics.
 
-**Credit card financial dashboard using Power BI:**
+**Week-on-Week Insights (Week 53)**
 
-• Developed an interactive dashboard using transaction and customner data from a SQL database, to provide real-time insights.
-• Streamlined data processing & analysis to monitor key performance metrics and trends.
-◦ Can share actionable insights with stakeholders based on dashboard findings to support decision-making processes.
+**Metric	             Change**
+Revenue	               +28.8%
+Transaction Amount	   +0.35%
+Transaction Count	     +0.28%
+Customer Count	       +0.13%
 
-**Week on Week change:**
+**Year-to-Date Overview**
 
-• Revenue increased by 28.8%, 
-• Total Transaction Amt & Count increased by 0.35% & 0.28%
-• Customer count increased by 0.13%
+**KPI	                    Value**
+Total Revenue	          ₹ 57 Million
+Total Interest Earned 	₹ 8 Million
+Transaction Volume    	₹ 46 Million
+Delinquency Rate	      6.06%
+Activation Rate	        57.5%
 
-**Overview YTD:**
+**Customer & Segment Performance
+Revenue by Gender:**
+Male: ₹ 31M
+Female: ₹ 26M
 
-Overall revenue is 57M Total interest is 8M Total transaction amount is 46M.
-Male customers are contributing more in revenue 31M, female 26M 
-Blue & Silver credit card are contributing to 93% of overall transactions . 
-Tx, NY & CA is contributing to 68% 
-Overall Activation rate is 57.5% 
-Overall Delinquent rate is 6.06%
+**Top Performing States:**
+
+Texas, New York, California – contributing 68% of total revenue
+
+**Card Usage Breakdown**
+**Card Type	        % of Transactions**
+Blue + Silver	       93%
+Gold + Platinum	     7%
+
+**Dashboard Capabilities (with Data)**
+Revenue & Growth Panels: Displays WoW growth metrics (e.g., +28.8% revenue increase in Week 53)
+
+Customer Segmentation Charts: Gender, card type, and geography-based breakdowns
+
+State-wise Performance Map: Visualizes top regions (TX, NY, CA contributing 68%)
+
+Product Penetration Bars: Tracks share of transactions by card type (Blue + Silver: 93%)
+
+Delinquency and Activation Panels: Highlights portfolio health (6.06% delinquency, 57.5% activation)
+
+This project showcases practical business intelligence development using SQL + Power BI, with a focus on metrics-driven decision-making and portfolio risk analysis.
