@@ -1,5 +1,7 @@
 # Credit_Card_Financial_Dashboard ( Power BI, SQL)
 
+This project showcases practical business intelligence development using SQL + Power BI, with a focus on metrics-driven decision-making and portfolio risk analysis.
+
 **Objective:** To track credit card transaction trends, customer behavior, and product-level performance using dynamic dashboards and real-time metrics.
 
 **Week-on-Week Insights (Week 53)**
@@ -34,14 +36,14 @@ Blue + Silver	       93%
 Gold + Platinum	     7%
 
 **Dashboard Capabilities (with Data)**
-Revenue & Growth Panels: Displays WoW growth metrics (e.g., +28.8% revenue increase in Week 53)
 
-Customer Segmentation Charts: Gender, card type, and geography-based breakdowns
+**Revenue & Growth Panels:** Displays WoW growth metrics (e.g., +28.8% revenue increase in Week 53)
 
-State-wise Performance Map: Visualizes top regions (TX, NY, CA contributing 68%)
+**Customer Segmentation Charts:** Gender, card type, and geography-based breakdowns
 
-Product Penetration Bars: Tracks share of transactions by card type (Blue + Silver: 93%)
+**State-wise Performance Map:** Visualizes top regions (TX, NY, CA contributing 68%)
 
-Delinquency and Activation Panels: Highlights portfolio health (6.06% delinquency, 57.5% activation)
+**Product Penetration Bars:** Tracks share of transactions by card type (Blue + Silver: 93%)
 
-This project showcases practical business intelligence development using SQL + Power BI, with a focus on metrics-driven decision-making and portfolio risk analysis.
+**Delinquency and Activation Panels:** Highlights portfolio health (6.06% delinquency, 57.5% activation)
+
